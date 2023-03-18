@@ -1,7 +1,7 @@
 package runscope
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	runscope "github.com/ewilde/go-runscope"
