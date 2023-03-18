@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	runscope "github.com/ewilde/go-runscope"
