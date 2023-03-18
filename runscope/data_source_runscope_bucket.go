@@ -1,7 +1,7 @@
 package runscope
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	runscope "github.com/ewilde/go-runscope"
 	"github.com/hashicorp/terraform/helper/schema"
